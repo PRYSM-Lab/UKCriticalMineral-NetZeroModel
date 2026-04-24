@@ -1,4 +1,4 @@
-# Raw Material Bottlenecks: Shaping the UK Net-Zero Transition under Critical Mineral Constraints
+# The Critical Bottleneck of Minerals: How Supply Constraints Pivot the UK Net-Zero Transition from Electrification to Hydrogen
 
 ---
 
