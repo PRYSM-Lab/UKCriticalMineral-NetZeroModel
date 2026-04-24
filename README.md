@@ -123,7 +123,7 @@ to:
 * Plotting scripts are available in:
 
 ```
-/3
+Graphs
 ```
 
 Users can reproduce all visualisations directly
