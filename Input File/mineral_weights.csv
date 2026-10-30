@@ -1,0 +1,18 @@
+mineral,price_usd_per_t,price_ref_date,price_source,price_status,bgs_S,bgs_V,bgs_CS,bgs_listed_critical_2024,bgs_source
+Al,3439,Jun-2026 monthly mean,"World Bank Commodity Price Data (Pink Sheet), aluminium, USD/t (2025 mean 2632; CMO Apr-2026)",verified,3.5,5.2,4.2,yes,"Mudd et al. 2024 UK Criticality Assessment, Table 10 (BGS OR/24/047)"
+Co,33095,Q1-2026 US spot,"CarbonCredits.com cobalt price data (via Farmonaut review Aug-2026); check Fastmarkets/LME",medium,8.1,5.1,6.4,yes,same
+Cr,2500,approx 2025-26,"APPROXIMATE value (ferrochrome basis): replace with USGS MCS 2026 chromium price",approx,3.7,3.4,3.6,no,same
+Cu,13552,Jun-2026 monthly mean,"World Bank Pink Sheet, copper, USD/t (2025 mean 9947)",verified,2.2,5.3,3.4,no,same
+Fe,100,approx 2025-26,"APPROXIMATE value (iron ore fines 62% Fe, USD/t): replace with World Bank Pink Sheet iron ore",approx,3.0,7.5,4.8,yes,same
+Li,105134,2-Sep-2026,"Benchmark Minerals Li2CO3 CIF Asia 19,750 USD/t x 5.323 (Li2CO3 -> Li metal content); SMM index 16,159 USD/t on 30-Sep-2026",medium,4.8,4.5,4.7,yes,same
+Mn,2300,approx 2025-26,"APPROXIMATE value (manganese metal): replace with USGS MCS 2026 manganese price",approx,2.4,6.8,4.0,yes,same
+Ni,17588,Jun-2026 monthly mean,"World Bank Pink Sheet, nickel, USD/t (2025 mean 15162)",verified,3.0,6.1,4.3,yes,same
+Pb,1946,Jun-2026 monthly mean,"World Bank Pink Sheet, lead, USD/t (2025 mean 1962)",verified,2.6,4.8,3.6,no,same
+Si,2300,approx 2025-26,"APPROXIMATE value (silicon metal 99%): replace with USGS MCS 2026 silicon price",approx,4.6,6.1,5.3,yes,same
+Sn,53037,Jun-2026 monthly mean,"World Bank Pink Sheet, tin, USD/t (2025 mean 34059)",verified,3.2,6.4,4.5,yes,same
+Ti,10000,approx 2025-26,"APPROXIMATE value (titanium sponge): replace with USGS MCS 2026 titanium price",approx,3.8,5.7,4.7,yes,same
+Zn,3539,Jun-2026 monthly mean,"World Bank Pink Sheet, zinc, USD/t (2025 mean 2868)",verified,2.7,6.2,4.0,yes,same
+Nd,129000,Q2-2026,"Nd oxide ~111 USD/kg (China, Q2-2026, Expert Market Research) x 1.166 (oxide->metal)",medium,7.2,5.5,6.2,yes,"BGS treats REEs as one group (REEs)"
+Dy,229000,9-Jul-2026,"Dy oxide 1,418,600 RMB/t (Baotou Rare Earth Products Exchange via SunSirs) at 7.1 RMB/USD x 1.148",medium,7.2,5.5,6.2,yes,"BGS treats REEs as one group (REEs)"
+Pt,68260000,20-Feb-2026,"~68.3 USD/g (market aggregator; verify with Johnson Matthey/LBMA)",low,5.6,3.8,4.6,yes,same
+Ir,207000000,20-Feb-2026,"~207 USD/g (market aggregator; sources disagree 26-214 kUSD/kg; verify)",low,7.9,3.1,5.0,yes,same
