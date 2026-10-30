@@ -61,7 +61,7 @@ Material demand is quantified using a material intensity matrix covering 24 tech
 
 Main input files:
 
-* `elec_h2.xlsx`
+* `input.xlsx`
   → Core system input data (energy system configuration)
 
 * `mineral.xlsx`
@@ -73,13 +73,13 @@ Main input files:
 
 1. Place input files in the project directory:
 
-   * `elec_h2.xlsx`
+   * `input.xlsx`
    * `mineral.xlsx`
 
 2. Run the main script:
 
 ```bash
-python Multi-Objective.py
+python MultiObjective_v2_5yr.py
 ```
 
 ### Execution steps:
@@ -99,7 +99,7 @@ python Multi-Objective.py
 Users can modify the final section of:
 
 ```bash
-Multi-Objective.py
+MultiObjective_v2_5yr.py
 ```
 
 to:
@@ -135,9 +135,9 @@ Users can reproduce all visualisations directly
 ```
 project/
 │
-├── elec_h2.xlsx          # Energy system input data
+├── input.xlsx          # Energy system input data
 ├── mineral.xlsx          # Critical mineral data
-├── Multi-Objective.py    # Main optimisation model
+├── MultiObjective_v2_5yr.py    # Main optimisation model
 ├── results/              # Model outputs
 ├── 3/                    # Plotting scripts and figures
 └── README.md
